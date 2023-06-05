@@ -11,7 +11,7 @@
 ![image](https://github.com/techbook-study/reading-after-work/assets/105155862/d9907cd2-1e77-4a09-9a13-21bdf3f4f62c)
 
 ```
-Title : yyyy-mm-yy 퇴근 후 독서
+Title : yyyy-mm-dd 퇴근 후 독서
 content : 독서 내용 간략 정리
 ```
 
@@ -27,9 +27,7 @@ content : 독서 내용 간략 정리
 
 ```
 책 제목
-
-[chapter][제목][읽은 페이지 수]
-	해당내용 간략 정리
+- 해당내용 간략 정리
 ```
 예시)
 ![image](https://github.com/techbook-study/reading-after-work/assets/105155862/c392638c-c9b9-4ade-8f9b-e79bba905042)
